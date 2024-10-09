@@ -1,8 +1,8 @@
 # DevOps Project(TOOLING WEBSITE SOLUTION)
-![183334671-0641051c-31e2-44e9-950c-b2f7197b6343](https://github.com/user-attachments/assets/b8164399-9b25-4e1e-b07c-1791bab3e9b9)
+![184101792-3c29fba2-78dd-4333-8aee-3385c605ecf1](https://github.com/user-attachments/assets/a7c2af19-df0d-420b-8cb5-b03687de88c9)
 
 ## Steps
- 1- 6 EC2 one for NFS Server, One for DB Server, Three for serving website with apache, One for Load Balancing ![image](https://github.com/user-attachments/assets/d6c9e67d-be62-438a-9cfb-8c4fd6e122c7)
+ 1- 7 EC2 one for NFS Server, One for DB Server, Three for serving website with apache, One for Load Balancing, One for Jenkins ![image](https://github.com/user-attachments/assets/24c4bb2e-0483-4df7-9a5b-ac7fdf0a7d0d)
  2- Created 3 Volumes 10GIB Each for NFS Server ![image](https://github.com/user-attachments/assets/3747b3e8-e344-4f3a-9ad7-4b639eae7b39)
  3- Installed SQL for DB Server and created DB
  ![image](https://github.com/user-attachments/assets/f60e94cb-54f4-4229-90da-dffc13900481)
