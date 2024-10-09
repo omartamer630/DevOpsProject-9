@@ -1,4 +1,4 @@
-# DevOps Project (TOOLING WEBSITE SOLUTION)
+# DevOps-Project (TOOLING WEBSITE SOLUTION)
 ![183334671-0641051c-31e2-44e9-950c-b2f7197b6343](https://github.com/user-attachments/assets/b8164399-9b25-4e1e-b07c-1791bab3e9b9)
 
 ## Steps
