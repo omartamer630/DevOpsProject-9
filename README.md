@@ -10,8 +10,12 @@
  ![image](https://github.com/user-attachments/assets/a4e2e03f-6312-453f-82d1-be334d3d3204)
  5- Configure LB with ```bash file apacheLB.conf```
 [Video for LB](https://github.com/user-attachments/assets/a543e169-afa9-473c-8757-b59bbf190c7f)
+ 6- Configure Jenkins Using Freestyle Pipeline and github cred webhook and using Public for SSH plugin to connect to NFS Server and deploy any feature for both Webserver
+ ![image](https://github.com/user-attachments/assets/bb4dd6cd-2897-47fa-81b8-50b19f49cf9e)
+ ![image](https://github.com/user-attachments/assets/446074c6-c533-409f-8106-f8381de22318)
 
 ## Result
+ # ![image](https://github.com/user-attachments/assets/3ff5ff2a-8e9c-4ad7-8371-356d257e703c)
  # ![image](https://github.com/user-attachments/assets/aa409a23-8a9b-43de-8498-84a0f4ef72c2)
  # ![image](https://github.com/user-attachments/assets/fb5ff22e-e9d5-4a6d-a656-822f96fdfc4d)
 
